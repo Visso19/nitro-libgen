@@ -14,3 +14,11 @@ This repository contains the computational workflow for generating a combinatori
 Install dependencies:
 ```bash
 pip install rdkit pandas numpy
+
+## 🚀 Quick Example
+
+After generating your library, explore the results:
+
+```bash
+python example_usage.py
+Make it executable (optional): chmod +x example_usage.py
