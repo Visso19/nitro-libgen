@@ -1,2 +1,16 @@
 # nitro-libgen
 NITROFURAN-TRIAZOLE ANALOG LIBRARY GENERATOR
+# Nitrofuran-Triazole Analog Library Generator
+
+This repository contains the computational workflow for generating a combinatorial library of nitrofuran-triazole analogs by systematically modifying the nitro and chloro substituents.
+
+## 📋 Requirements
+
+- Python 3.8+
+- RDKit 2023.03.1+
+- pandas 1.5.3+
+- numpy 1.24.3+
+
+Install dependencies:
+```bash
+pip install rdkit pandas numpy
