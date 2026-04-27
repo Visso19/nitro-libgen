@@ -3,6 +3,7 @@ NITROFURAN-TRIAZOLE ANALOG LIBRARY GENERATOR
 # Nitrofuran-Triazole Analog Library Generator
 
 This repository contains the computational workflow for generating a combinatorial library of nitrofuran-triazole analogs by systematically modifying the nitro and chloro substituents.
+And also “The script generate_nitro_library.py integrates the functionality typically distributed across enumerate, validation, descriptor, and export modules into a single, reproducible workflow.”
 
 ## 📋 Requirements
 
